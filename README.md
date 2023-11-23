@@ -1,5 +1,5 @@
 # Property Listing Website 🏢🏘️
-
+``` The website link might trigger a phishing warning, but you can proceed with caution and without undue concern.```
 The website provides a user-friendly platform for users to browse, search, and view property listings. This GitHub repository hosts a property listing website developed using PHP, JavaScript, HTML, and CSS. It offers a comprehensive range of features, ensuring a seamless experience for both property seekers and sellers.
 - **dashboard**  ![Dashboard](https://github.com/Gibz-nate/Property-listing-website/assets/119291505/9a033589-456f-4f61-9d24-c0542e67bb4f)
 
